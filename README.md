@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanukagayantha
 - 👀 I’m interested in Programming and IoT
-- 🌱 I’m currently learning Mobiel app development
+- 🌱 I’m currently learning Mobile app development
 
 
 <!---
